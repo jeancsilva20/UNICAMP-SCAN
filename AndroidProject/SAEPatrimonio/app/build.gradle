@@ -13,7 +13,6 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-        buildToolsVersion '23.0.2' // Older versions may give compile errors
     }
     buildTypes {
         release {
