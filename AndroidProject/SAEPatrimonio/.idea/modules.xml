@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SAEPatrimonio.iml" filepath="$PROJECT_DIR$/SAEPatrimonio.iml" />
+      <module fileurl="file://C:\Users\jeanc\Desktop\UNICAMP-SCAN\AndroidProject\SAEPatrimonio\SAEPatrimonio.iml" filepath="C:\Users\jeanc\Desktop\UNICAMP-SCAN\AndroidProject\SAEPatrimonio\SAEPatrimonio.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\jeanc\Desktop\UNICAMP-SCAN\AndroidProject\SAEPatrimonio\app\app.iml" filepath="C:\Users\jeanc\Desktop\UNICAMP-SCAN\AndroidProject\SAEPatrimonio\app\app.iml" />
     </modules>
   </component>
 </project>
